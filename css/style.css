@@ -5,3 +5,13 @@
 .padding {
 	margin: 10px;
 }
+
+.feature-left  {
+    float: left;
+    margin-left: 10px;
+}
+
+.feature-right  {
+    float: right;
+    margin-right: 10px;
+}
